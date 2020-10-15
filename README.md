@@ -19,8 +19,11 @@ __Links:__
 * [AutoDoc Datasheet][autodoc]
 * [Specifications][spec]
 * [Store Page][store]
+* [Schematics and Layout][hardware]
 
 [thumbnail]: https://d3iwea566ns1n1.cloudfront.net/images/product/cfc476a8175b0227c75bd2853a3e6107ad4b8505.png
 [autodoc]: PKG900000001506_AutoDoc.pdf
 [spec]: PKG900000001506_SpecSheet.pdf
 [store]: https://store.gumstix.com/cm-robo/
+[hardware]: hardware/hardware.md
+[firmware]: firmware/firmware.md
